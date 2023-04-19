@@ -1,0 +1,32 @@
+
+.Heading{
+    src: url(../Fonts/Carter_One/CarterOne-Regular.ttf);
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 50px;
+    letter-spacing: 10px;
+    text-indent: 10px;
+    text-align: center;
+    margin-top: 100px;
+    
+}
+h1{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-indent: 10px;
+    font-size: 100px;
+    text-align: center;
+    
+}
+.box {
+    color: rgb(17, 16, 16);
+    text-align: center;
+    transition: all 0.3s ease-in-out;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+font-size: 100px;
+text-align: center;
+
+}
+
+.box:hover {
+    transform: scale(1.2);
+    color: red ;
+}
