@@ -77,17 +77,15 @@ class myFooter extends HTMLElement {
     <h4>Company</h4>
     <ul>
         <li><a href="index.html">Home</a></li>
-        <li><a href="about.html">About</a></li>
-        <li><a href="./BlogPosts/Blogs.html">Blogs</a></li>
-        <li><a href="portfolio.html">Portfolio</a></li>
+        <li><a href="./Blogs/blogss.html">Blogs</a></li>
+        <li><a href="netart.html">Net-Art</a></li>
         <li><a href="styleGuide.html">Style Guide</a></li>
     </ul>
 </div>
 <div class="footer-content">
     <h4>Get help</h4>
     <ul>
-        <li><a href="portfolio.html">Portfolio</a></li>
-        <li><a href="about.html">About</a></li>
+        <li><a href="netart.html">Net-Art</a></li>
     </ul>
 </div>
 <div class="footer-content">

@@ -4,7 +4,7 @@
 const navItems = [
     { href: '../index.html', text: 'Home'},
     { href: './blogss.html', text: 'Blogs' },
-    { href: '../netart', text: 'Net-Art'},
+    { href: '../netart.html', text: 'Net-Art'},
     { href: '../styleGuide.html', text: 'Style Guide',  },
    
 
