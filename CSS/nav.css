@@ -33,7 +33,7 @@ body {
   border-radius: 50%;
   bottom: 5px;
   left: calc(50% - 2px);
-  background: #8c1c13;
+  background: #8c136c;
   will-change: transform;
   transform: scale(0);
   transition: transform 0.2s ease;
@@ -54,11 +54,11 @@ body {
   color: #110404;
 }
 .menu-item a:hover {
-  background: #8c1c13;
+  background: #8c1380;
 }
 .sub-menu .menu-item {
   padding: 0.75rem 0;
-  background: #988372b8; 
+  background: #f2eeeab8; 
   opacity: 0;
   transform-origin: bottom;
   animation: enter 0.2s ease forwards;

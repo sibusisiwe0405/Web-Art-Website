@@ -3,11 +3,7 @@
     padding: 0;
     overflow: hidden;
     font-family: Arial, Helvetica, sans-serif;
-    
-}
-body{
-    background-image: url(../Images/font\ element.jpeg);
-    margin-top: 10%;
+
 }
 .nav{
     width: auto;
